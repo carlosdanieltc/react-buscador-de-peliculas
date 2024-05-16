@@ -1,3 +1,8 @@
+# Buscador de Películas
+Proyecto realizado para la práctica de React. Curso Midudev 2023.
+https://carlosdanieltc.github.io/react-buscador-de-peliculas/
+<img width="951" alt="Captura de pantalla 2024-05-16 133349" src="https://github.com/carlosdanieltc/react-buscador-de-peliculas/assets/64924319/3be5b590-cd2a-426c-8caa-4f1fa5ce0cf9">
+
 ## Enunciado
 
 Crea una aplicación para buscar películas
